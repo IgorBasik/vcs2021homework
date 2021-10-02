@@ -1,3 +1,4 @@
+источник: https://ericsink.com/vcbe/html/history_of_version_control.html
 A History of Version Control
 Broadly speaking, the history of version control tools can be divided into three generations
 Table 1.1. Three Generations of Version Control
