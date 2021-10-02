@@ -1,0 +1,5 @@
+A History of Version Control
+Broadly speaking, the history of version control tools can be divided into three generations
+Table 1.1. Three Generations of Version Control
+The forty year history of version control tools shows a steady movement toward more concurrency.
+In first generation tools, concurrent development was handled solely with locks. Only one person could be working on a file at a time.
